@@ -1,0 +1,7 @@
+{
+  "name": "tiktok/open-nof1-ai",
+  "version": "0.1.0",
+  "docs": "docs/index.md",
+  "summary": "An open-source AI-powered cryptocurrency trading benchmark platform using DeepSeek models and Binance futures, built with Next.js 15 and TypeScript.",
+  "private": true
+}
