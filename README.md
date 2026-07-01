@@ -74,6 +74,7 @@ This open-source implementation currently focuses on running the **DeepSeek** tr
    # AI Models
    DEEPSEEK_API_KEY="your_deepseek_api_key"
    OPENROUTER_API_KEY="your_openrouter_api_key"  # Optional: for additional models
+   REQUESTY_API_KEY="your_requesty_api_key"  # Optional: Requesty (https://router.requesty.ai/v1) for additional models
    
    # Market Research (Optional)
    EXA_API_KEY="your_exa_api_key"  # For enhanced market analysis

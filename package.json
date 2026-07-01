@@ -13,6 +13,7 @@
     "@ai-sdk/openai-compatible": "^1.0.22",
     "@openrouter/ai-sdk-provider": "^1.2.0",
     "@radix-ui/react-slot": "^1.2.3",
+    "@requesty/ai-sdk": "^3.4.0",
     "ai": "^5.0.76",
     "ccxt": "^4.5.11",
     "class-variance-authority": "^0.7.1",
